@@ -41,6 +41,6 @@ OBS:
 1. Sempre defina o lado "dono" da `relação(@JoinColumn)` no lado que tem a `FK(chave estrangeira)`
 
 
-Autor: Matheus Pessoa
+Autor: Luccas Bentim
 Disciplina: Programação Web I - ADS 4 Módulo
 Professor: José Willian 
